@@ -1,4 +1,6 @@
-% 2-class classifier
+% 2-class linear classifier
+% Linear classification on samples in X using weights w
+% returns classification of samples
 
 function C = p4(w,X)
 
