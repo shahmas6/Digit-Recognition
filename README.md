@@ -1,2 +1,2 @@
 # Digit-Recognition
-Some machine learning algorithms to classify digits
+Some machine learning algorithms to classify hand-written digits
